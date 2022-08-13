@@ -21,4 +21,4 @@ Also see
 [SSI2131 Prototyping Board](https://www.infinitemachinery.com/ssi2131-prototyping-board)
 
 
-[SSI2131 Prototyping Board Kit](https://www.thonk.co.uk/shop/infinite-machinery-2131-proto/)
+[SSI2131 Prototyping Board Kit from Thonk](https://www.thonk.co.uk/shop/infinite-machinery-2131-proto/)
